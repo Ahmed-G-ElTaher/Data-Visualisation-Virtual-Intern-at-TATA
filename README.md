@@ -83,5 +83,9 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 
    
-   
+# _________________________________________________________
+## Forth Task : Communicating Insights and Analysis
+### Effectively communicate mu findings and explain how it relates to each scenario
+
+### ------------------------------------
 
